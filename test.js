@@ -18,4 +18,10 @@ const apiKey = "sk-1234567890abcdef"
 
 **Step 3 — At the bottom select:**
 ```
+console.log("trigger review")
+```
+
+**Step 5 — Scroll down and select:**
+```
+● Commit directly to test-ai-review branch
 ● Create a new branch: test-ai-review
