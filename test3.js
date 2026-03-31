@@ -12,7 +12,8 @@ console.log(password)
 
 Then watch your terminal — you should see:
 ```
-#FDSFDSFSDFDSFSF
+
+
 📩 Received GitHub event: pull_request
 🔍 New PR detected: ...
 📄 Found 1 changed file(s)
