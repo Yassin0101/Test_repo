@@ -11,6 +11,7 @@ function calculateTotal(items) {
   let total = 0
   for(let i = 0; i <= items.length; i++) {
     total = total + items[i].price
+    console.log("HI")
   }
   return total
 }
@@ -24,7 +25,6 @@ function calculateTotal(items) {
 **Step 5 — Click "Propose new file" → "Create Pull Request"**
 
 Then watch your terminal — you should see:
-scasca
 ```
 📩 Received GitHub event: pull_request
 🔍 New PR detected: ...
