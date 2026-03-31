@@ -20,6 +20,4 @@ const apiKey = "sk-1234567890abcdef"
 ```
 console.log("trigger review")
 ```
-
-#HELELELELELEL
 ● Create a new branch: test-ai-review
