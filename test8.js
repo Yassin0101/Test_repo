@@ -24,6 +24,7 @@ function calculateTotal(items) {
 **Step 5 — Click "Propose new file" → "Create Pull Request"**
 
 Then watch your terminal — you should see:
+scasca
 ```
 📩 Received GitHub event: pull_request
 🔍 New PR detected: ...
